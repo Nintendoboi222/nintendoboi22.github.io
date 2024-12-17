@@ -9,34 +9,15 @@
 [![Join the discord?](https://invidget.switchblade.xyz/XczEHXJKGe)](https://discord.gg/XczEHXJKGe)
 ---
 
-> # Game Owners
+> # Random Stuff
 
 - [**3KH0**](https://github.com/3kh0/)⬅ INSPIRATION
--  **Cookie Clicker**
-        - [Dashnet and Orteil](https://orteil.dashnet.org) 
-- **1v1 LOL**
-        - [justplay.lol](https://www.justplay.lol/)
-- **Space Company**
-        - [sparticle999](https://github.com/sparticle999)
-- **Burrito Bison**
-        - [Kongregate](http://www.kongregate.com/games/juicybeast/burrito-bison-launcha-libre)
-- **Papa games**
-        - [Flipline Studio](https://www.flipline.com/)
-- **There Is No Game**
-        - [KaMiZoTo](https://thereisnogame.fandom.com/wiki/Creator)
-- **Cluster Truck**
-        - [Landfall](https://landfall.se/clustertruck)
 - **Wallpaper**
-        - [Space wallpaper](https://www.artstation.com/artwork/5B51aW)
-  - **Unlisted Games**
-        -[I(and future partners) do not take credit for the games in this website, they are not created or made by us]
 - *pls dont sue me 🥺*
 
 > # Links
 1. **[Main](https://nintendoboi22.github.io/)**
-2. **[Vercel 1](https://nintendoboi22-github-io.vercel.app/)**
-3. **[Vercel 2](https://nintendoboi22-github-io-nintendoboi2s-projects.vercel.app/)**
-4. **[Vercel 3](https://nintendoboi22-github-io-git-main-nintendoboi2s-projects.vercel.app/)**
+2. **[New One](https://nintendoboi222.github.io/)**
   
 > # DMCA
 - **[DMCA, if needed](https://nintendoboi222.github.io/licence-stuff/dmca)**
